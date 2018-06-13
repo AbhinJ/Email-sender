@@ -1,5 +1,5 @@
 function localtunnel {
-  lt -s sfddgfvsdgvsdgfsvsdgvsdfdsgrwgtr --port 5000
+  lt --port 5000 --subdomain sfddgfvsdgvsdgfsvsdgvsdfdsgrwgtr
 }
 until localtunnel; do
 echo "localtunnel server crashed"
