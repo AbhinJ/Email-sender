@@ -1,3 +1,3 @@
 # Email-sender
 
-Main purpose of this app is for fedback and creating surveys
+Main purpose of this app is for feedback and creating surveys
